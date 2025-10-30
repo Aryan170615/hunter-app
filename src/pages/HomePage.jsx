@@ -3,7 +3,7 @@ import React from 'react'
 import Banner from '../components/banner/Banner'
 import CoinsTable from '../components/CoinsTable'
 
-const Homepage = () => {
+const HomePage = () => {
   return (
     <div>
       <Banner />
@@ -12,4 +12,4 @@ const Homepage = () => {
   )
 }
 
-export default Homepage
+export default HomePage

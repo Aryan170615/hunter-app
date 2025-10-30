@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom'
 import Header from './components/Header'
-import HomePage from './pages/Homepage'
+import HomePage from './pages/HomePage'
 import CoinPage from './pages/coinPage' 
 import CryptoContextProvider from './CryptoContext'
 import 'react-alice-carousel/lib/alice-carousel.css';
